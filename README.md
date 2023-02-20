@@ -30,4 +30,5 @@ For merge
               git cherry-pick <ref number>   
 5. Drop commit
               git reset <ref number>
+              
 For detail submission is in PDF named "Sumit_Rajput_Practical"
