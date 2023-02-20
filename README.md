@@ -1,5 +1,5 @@
 # Practical of LMS Course Git & Git FLow
-## Submission By Manav Panchal (Block-chain Trainee 2023)
+## Submission By Sumit Rajput
 
 Working on following points:
 
@@ -43,4 +43,4 @@ Working on following points:
                   git cherry-pick <ref number>   
 #### 5. Drop commit
                   git reset <ref number>
-#### For detail submission is in PDF named "Manav-Panchal-Practical"
+#### For detail submission is in PDF named "Sumit_Rajput_Practical"
